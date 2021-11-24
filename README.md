@@ -27,4 +27,7 @@ The second idea is to make a automated plant monitoring/maintainig system. The s
 
 Widgets so far:
 
+<img width="1083" alt="Screen Shot 2021-11-23 at 9 51 03 PM" src="https://user-images.githubusercontent.com/58381410/143162791-c493fbc5-f3f0-472c-8034-edb58f514beb.png">
+
+
 
