@@ -3,6 +3,9 @@
 This project is a home monitoring system that is controlled using an Arduino Nano 33 IOT and the Arduino Cloud. I am currently waiting on parts to proceed with the project. So far I have an ultrasonic sensor that returns the distance of an object in its range, a dht11 temperature and humidity sensor that gives temperature in both Celcius and Ferenheit along with humidity and a LED lgiht. All of which are controlled by the cloud widgets.
 
 
+<img width="1257" alt="Screen Shot 2021-11-24 at 8 41 53 PM" src="https://user-images.githubusercontent.com/58381410/143352887-be7de3d3-39a9-4945-8f17-3ab83ea295e1.png">
+
+
 Possible Upgrades:
 
 First I will be buying a relay module and replace the led light with my room light and control that through a switch widget on the cloud.
